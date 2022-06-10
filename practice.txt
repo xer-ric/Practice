@@ -1,2 +1,2 @@
-
-xThis is my git practice.
+This is my git practice.
+I changed the file.
